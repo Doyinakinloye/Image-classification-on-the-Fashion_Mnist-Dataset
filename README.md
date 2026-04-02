@@ -1,2 +1,2 @@
-# Image-classification-on-the-Fashin_Mnist-Dataset
+# Image-classification-on-the-Fashion_Mnist-Dataset
 An image classification project on the Fashion-MNIST dataset, where a machine learning model was trained to predict clothing categories from grayscale images. Demonstrates preprocessing, training, and evaluation of classification models on a benchmark dataset. At the point of working on this project, i did'nt have any knowledge on convolutional neural network and hence i did not get the best results.
